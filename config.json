@@ -1,7 +1,7 @@
 {
 	"input": [
 	  {
-		  "name": "description",
+		  "name": "text",
 		  "type" : "str",
 		  "description" : "example",
 		  "default" : "example",
