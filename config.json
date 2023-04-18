@@ -4,12 +4,8 @@
 		  "name": "text",
 		  "type" : "str",
 		  "description" : "example",
-		  "default" : "example",
-		  "optional" : {
-			  "min_length" : 1,
-			  "max_length" : 10,
-			  "choices" : ["example","example","example","example"]
-		  }
+		  "default" : "example"
+		
 	  }
   ],
 	"output" : 
